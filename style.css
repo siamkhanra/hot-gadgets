@@ -1,0 +1,78 @@
+.container{
+    margin-bottom: 80px;
+}
+body{
+    margin-left: none;
+}
+.button{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 8px 17px;
+    border-radius: 10px;
+    margin-top: 7px;
+}
+.bg-c1{
+    background-image: url(Images/bg-1.png);
+    background-repeat: no-repeat;
+    background-size:65px ;
+    height: max-content;
+}
+.bg-c2{
+    background-image: url(Images/bg-2.png);
+    background-repeat: no-repeat;
+    background-size:120px ;
+    background-position:bottom left;
+    height: 300px;
+    margin-left: none;
+}
+.see-all{
+    color:orange;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.card{
+    border: none;
+    box-shadow: 4px 4px 10px lightgray;
+    border-radius: 10px;
+}
+.categories{
+    height:70%;
+}
+.categories h2{
+    text-align: center;
+    border-bottom: 3px solid orange;
+    padding: 10px 20px;
+    margin: 0 450px; 
+}
+.categories h3{
+    text-align: center;
+    padding-top: 30px;
+}
+.s1{
+    margin-top: 30px;
+    box-shadow: 4px 4px 10px lightgray;
+    border-radius: 10px;
+}
+#s2{
+    margin-bottom: 20px;
+}
+#subscribe{
+    height: 250px;
+    border-radius: 10px;
+}
+.orange-bg{
+    background-color: #90c7d4;
+}
+.s3 h2{
+    text-align: center;
+    border-bottom: 3px solid orange;
+    padding: 10px 20px;
+    margin: 20px 475px;
+}
+footer{
+    text-align: center;
+    color: gray;
+}
